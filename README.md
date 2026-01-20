@@ -81,4 +81,4 @@ Manche Skripte haben zusätzliche Steuerung (z. B. MouseX/Y, U/D für Tiefe).
 
 Viel Spaß beim Erkunden und Weiterentwickeln – das Projekt ist eine schöne Hommage an Bells Essay und Woolfs Freundschaft!
 
-Thomas, Berlin – Januar 2026
+Thomas, Essen – Januar 2026
